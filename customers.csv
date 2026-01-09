@@ -1,0 +1,6 @@
+customer_id,customer_name,email,country,is_active,created_date
+201,John Smith,john@gmail.com,USA,true,2023-01-10
+202,Marie Dubois,marie@gmail.com,France,true,2023-03-15
+203,Raj Patel,raj@gmail.com,India,false,2022-11-20
+204,Anna Müller,anna@gmail.com,Germany,true,2023-06-01
+205,Carlos Gomez,carlos@gmail.com,Spain,true,2023-09-12
